@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Selamlar, ben xAlars ⚡</h1>
+  
+  <br></br>
+<p align="center">
+<a href="https://github.com/xAlarsOfficial">
+  <img src="https://lanyard.cnrad.dev/api/528640288072138768?idleMessage=Kendi%20Halinde%20Tak%C4%B1lan%20Birisi%20%3A)&theme=dark&bg=EABFFF"/>
+</a>
+</p>
 
-<!--
-**xAlarsOfficial/xalarsofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://github.com/xAlarsOfficial">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=xAlarsOfficial&rank_icon=github&custom_title=xAlars%27%C4%B1n%20Github%20%C4%B0statistikleri&show_icons=true&include_all_commits=true&theme=algolia"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=xAlarsOfficial&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/xalarsofficial">
+    <img src="https://github-readme-streak-stats.herokuapp.com/demo/?user=xAlarsOfficial&theme=algolia&hide_border=true&border_radius=4.5&locale=tr&timezone=UTC&short_numbers=false&date_format=&mode=weekly&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background"/>
+  </a>
+</p>
