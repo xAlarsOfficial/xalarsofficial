@@ -16,6 +16,6 @@
 
 <p align="center">
   <a href="https://github.com/xalarsofficial">
-    <img src="https://github-readme-streak-stats.herokuapp.com/demo/?user=xAlarsOfficial&theme=algolia&hide_border=true&border_radius=4.5&locale=tr&timezone=UTC&short_numbers=false&date_format=&mode=weekly&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=xAlarsOfficial&theme=algolia&hide_border=true&mode=weekly"/>
   </a>
 </p>
