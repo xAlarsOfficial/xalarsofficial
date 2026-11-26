@@ -3,7 +3,7 @@
   <br></br>
 <p align="center">
 <a href="https://github.com/xAlarsOfficial">
-  <img src="https://lanyard.cnrad.dev/api/528640288072138768?idleMessage=Kendi%20Halinde%20Tak%C4%B1lan%20Birisi%20%3A)&theme=dark&bg=EABFFF"/>
+  <img src="https://lanyard.cnrad.dev/api/528640288072138768?bg=7851A9&idleMessage=Kendi%20Halinde%20E%C4%9Flenen%20Birisi%20%3A)&theme=dark"/>
 </a>
 </p>
 
